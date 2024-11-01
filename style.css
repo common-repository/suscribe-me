@@ -1,0 +1,29 @@
+.sscrbm_push a:hover{
+   position: relative;
+   top: 1px;
+   outline:none;
+}
+.sscrbm table{
+   border:1px hidden gray;
+   padding:0px;
+   margin-top:0px;
+   font-size:10px;
+}
+.sscrbm td{
+   font-size: 1em;
+   text-align: center;
+   vertical-align: middle;
+}
+.sscrbm img{
+   vertical-align: middle;
+}
+
+.link a, .link a:hover, .link a:visited, .link a:active {
+text-decoration:none;
+color:#104e8b;
+}
+
+.sscrbm img a, .sscrbm img a:hover, .sscrbm img a:visited, .sscrbm img a:active,
+.sscrbm_img a, .sscrbm_img a:hover, .sscrbm_img a:visited, .sscrbm_img a:active,
+.sscrbm_img img a, .sscrbm_img img a:hover, .sscrbm_img img a:visited, .sscrbm_img img a:active {
+border:0px;}
